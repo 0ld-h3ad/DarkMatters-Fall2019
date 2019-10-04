@@ -33,17 +33,17 @@ In this course we will consider together the surveillance of Blackness and the p
   
 **Final Project**
 
-Each student will contribute a written or visual project to a zine that we will publish and produce together. The zine will be made available to visitors at the showcase. Students are encouraged to practice critical writing and to get experience having artwork or writing published. Last semester's zine can be found [here](/Critical_Theory_Zine_spreads.pdf).
+Each student will contribute a written or visual project to a zine that we will publish and produce together. The zine will be made available to visitors at the showcase. Students are encouraged to practice critical writing and to get experience having artwork or writing published. Fall 2018's zine can be found [here](/Critical_Theory_Zine_spreads.pdf). Spring 2019's zine can be found [here](/DarkMattersZineSpring2019Scan(Searchable).pdf).
   
 **Guiding Questions** 
 
   * You do not need to respond to these. Have them in mind when reading and consider them after reading the text, see what comes to mind. 
 
 ## Week 1 - No Class (SFPC Day 2) ##
-**Tuesday Mar 12**
+**Tuesday Oct 1**
 
 ## Week 2 - Software as Ideology  ##
-**Tuesday Mar 19, 10 AM**
+**Tuesday Oct 8, 10 AM**
 
 **Agenda:**
   * Introduction - 15 mins
@@ -63,10 +63,10 @@ Each student will contribute a written or visual project to a zine that we will 
   * What are some activites in your life that are determined by what your smartphone/computer is able to do?
   * Think of your friends and family, if they were the designers of computer technology what would it do/look like?
 
-**Before Class:** Please write a response to the text, this can include questions, impressions, sketches, notes or your own ideas. Aim for 300 words or about half a page in standard settings. Please add it to the [Week 2 folder](https://paper.dropbox.com/folder/show/Week-2-e.1gg8YzoPEhbTkrhvQwJ2zzxYEonubJfTWDKcTv7bWAWQgaFDajvO) on Dropbox Paper by midnight the day before class.
+**Before Class:** Please write a response to the text, this can include questions, impressions, sketches, notes or your own ideas. Aim for 300 words or about half a page in standard settings. Please add it to the [TBD folder]() on Dropbox Paper by midnight the day before class.
 
 ## Week 3 - The Silicon Valley of Dreams  ##
-**Tuesday Mar 26, 10 AM**
+**Tuesday Oct 15, 10 AM**
 
 **Agenda:**
   * Lecture on assigned reading - 1 hour
@@ -87,7 +87,7 @@ Each student will contribute a written or visual project to a zine that we will 
 **Before Class:** Please write a response to the text, this can include questions, impressions, sketches, notes or your own ideas. Aim for 300 words or about half a page in standard settings. Please add it to the [Week 3 folder](https://paper.dropbox.com/folder/show/Week-3-e.1gg8YzoPEhbTkrhvQwJ2zzxYCCWdER6Fu6avJDcoLIuZs0PH5DVr) on Dropbox Paper by midnight the day before class.
 
 ## Week 4 - Black Gooey Universe ##
-**Tuesday Apr 2, 10 AM**
+**Tuesday Oct 22, 10 AM**
 
 **Agenda:**
   * Lecture on assigned reading - 40 mins
@@ -114,12 +114,12 @@ Each student will contribute a written or visual project to a zine that we will 
 **Before Class:** Please write a response to the text, this can include questions, impressions, sketches, notes or your own ideas. Aim for 300 words or about half a page in standard settings. Please add it to the [Week 4 folder](https://paper.dropbox.com/folder/show/Week-4-e.1gg8YzoPEhbTkrhvQwJ2zzxYCD5gXos1zaB6YVhSLzhdTDkY3OPr) on Dropbox Paper by midnight the day before class.
 
 ## Week 5 - Intro to Blackness and Surveillance ##
-**Tuesday Apr 9, 10 AM**
+**Tuesday Oct 29, 10 AM**
 
 **Agenda:**
   * Lecture on assigned reading - 1 hr
   * Break - 10 mins
-  * Visiting Artist: RAFiA Santana - 30 mins
+  * Small group discussion - 30 mins
   * Full group discussion - 1 hour
   * **Saturday Apr 13, 11:00 AM** -  Field trip to see American's show *I’m Blue (If I Was █████ I Would Die)* at\
   [Koenig & Clinton](http://koenigandclinton.com/)\
@@ -129,7 +129,6 @@ Each student will contribute a written or visual project to a zine that we will 
 **Reading:** [Simone Browne, "Introduction, and Other Dark Matters"](/DarkMatters-OntheSurveillanceofBlackness_SimoneBrowne.pdf) from [*Dark Matters: On the Surveillance of Blackness*](https://www.amazon.com/Dark-Matters-Surveillance-Simone-Browne/dp/0822359383)
 
 * Further Reading: 
-  * ["Meet RAFiA Santana, the Multimedia Artist Working GIFs and Grubhub for the Greater Good," Teen Vogue](https://www.teenvogue.com/story/rafia-santana-fresh-finds)
   * ["Abstraction, the Irreconcilable: An Interview with American Artist," Open Set](http://www.open-set.com/krcohen/essay-clusters/abstraction-the-irreconcilable-an-interview-with-american-artist/)
 
 **Guiding Questions:** 
@@ -142,7 +141,7 @@ Each student will contribute a written or visual project to a zine that we will 
   **Before Class:** Please submit a first draft of your essay/images to the [Zine-Draft folder](https://paper.dropbox.com/folder/show/Zine-Draft-e.1gg8YzoPEhbTkrhvQwJ2zzxYCD5gXoGlqT56bmu2bkHaQvtSVnqU) on Dropbox Paper by midnight the day before class. Nabil and American will provide feedback.
 
 ## Week 6 - Biometric Surveillance of Blackness ##
-**Tuesday Apr 16, 10 AM**
+**Tuesday Nov 5, 10 AM**
 
 **Agenda:**
   * Lecture on assigned reading - 1 hour
@@ -155,7 +154,7 @@ Each student will contribute a written or visual project to a zine that we will 
 **Before Class:** Please submit a revised draft of your essay/images to the [Zine-Draft folder](https://paper.dropbox.com/folder/show/Zine-Draft-e.1gg8YzoPEhbTkrhvQwJ2zzxYCD5gXoGlqT56bmu2bkHaQvtSVnqU) on Dropbox Paper by midnight the day before class. Nabil and American will provide feedback.
 
 ## Week 7 - Intro to Carceral Capitalism ##
-**Tuesday Apr 23, 10 AM**
+**Tuesday Nov 12, 10 AM**
 
 **Agenda:**
   * Lecture on assigned reading - 1 hr
@@ -175,7 +174,7 @@ Each student will contribute a written or visual project to a zine that we will 
 **Before Class:** Please submit a revised draft of your essay/images to the [Zine Final Drafts folder](https://paper.dropbox.com/folder/show/Zine-Final-Drafts-e.1gg8YzoPEhbTkrhvQwJ2zzxWbNI0CAQgIL46H84GueFlcfAxgPMU) on Dropbox Paper by midnight the day before class. Nabil and American will provide feedback.
 
 ## Week 8 - Algorithmic Policing ##
-**Tuesday Apr 30, 10 AM**
+**Tuesday Nov 19, 10 AM**
 
 **Agenda:**
   * Lecture on assigned reading - 1 hr
@@ -194,8 +193,8 @@ Each student will contribute a written or visual project to a zine that we will 
 **Before Class:** Please submit a final draft of your essay/images to the [Zine Final Drafts folder](https://paper.dropbox.com/folder/show/Zine-Final-Drafts-e.1gg8YzoPEhbTkrhvQwJ2zzxWbNI0CAQgIL46H84GueFlcfAxgPMU) on Dropbox Paper by midnight the day before class. We will design and develop these works into a zine that will be available during the showcase.
   
 ## Week 9 - No Class (Artist Toolkit) ##
-**Tuesday May 7**
+**Tuesday Nov 26**
 
 ## Week 10 - No Class (Showcase) ##
-**Tuesday May 14**
+**Tuesday Dec 3**
   
