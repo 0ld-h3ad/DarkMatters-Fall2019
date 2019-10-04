@@ -1,12 +1,12 @@
 # Dark Matters
 
 **Instructor:** American Artist | [americanartist.us](http://americanartist.us/) | [americanartist.us@gmail.com](mailto:americanartist.us@gmail.com)\
-**Teaching Assistant:** Nabil Hassein | [nabilhassein.github.io](https://nabilhassein.github.io) | [nabil.hassein@gmail.com](nabil.hassein@gmail.com)\
-**Track:** Critical Theory, Spring 2019\
+**Teaching Assistant:** Tsige Tafesse | [tsigetafesse@gmail.com](tsigetafesse@gmail.com)\
+**Track:** Critical Theory, Fall 2019\
 **Location:** School for Poetic Computation | [sfpc.io](http://sfpc.io/codesocieties/) | 155 Bank St, New York, NY 10014 \
 **Time:** Tuesdays at 10 AM\
-**Office Hours:** [Sign Up Here](https://paper.dropbox.com/doc/Dark-Matters-TA-and-Teacher-Time--AZtD3_IInnFxQqzSkpld64mrAg-0BMRVQIVJ0w4Newm04LwX)\
-**Homework Submission**: [Find the appropriate week here](https://paper.dropbox.com/folder/show/Homework-submissions-e.1gg8YzoPEhbTkrhvQwJ2zzxYEonubJlt03YTqK3AcnMSxrFTvIkM)
+**Office Hours:** TBD\
+**Homework Submission**: TBD
 
 **Class Schedule:** \
 Mar 12: No class – SFPC Day 2 \
