@@ -9,16 +9,16 @@
 **Homework Submission**: TBD
 
 **Class Schedule:** \
-Mar 12: No class – SFPC Day 2 \
-Mar 19: [Software as Ideology](#week-2---software-as-ideology) \
-Mar 26: [The Silicon Valley of Dreams](#week-3---the-silicon-valley-of-dreams) \
-Apr 2: [Black Gooey Universe](#week-4---black-gooey-universe) \
-Apr 9: [Intro to Blackness and Surveillance](#week-5---intro-to-blackness-and-surveillance) \
-Apr 16: [Biometric Surveillance of Blackness](#week-6---biometric-surveillance-of-blackness) \
-Apr 23: [Intro to Carceral Capitalism](#week-7---intro-to-carceral-capitalism) \
-Apr 30: [Algorithmic Policing](#week-8---algorithmic-policing) \
-May 7: No class – Showcase \
-May 14: No class – Artist Toolkit 
+Oct 1: No class – SFPC Bootcamp \
+Oct 8: [Software as Ideology](#week-2---software-as-ideology) \
+Oct 15: [The Silicon Valley of Dreams](#week-3---the-silicon-valley-of-dreams) \
+Oct 22: [Black Gooey Universe](#week-4---black-gooey-universe) \
+Oct 29: [Intro to Blackness and Surveillance](#week-5---intro-to-blackness-and-surveillance) \
+Nov 5: [Biometric Surveillance of Blackness](#week-6---biometric-surveillance-of-blackness) \
+Nov 12: [Intro to Carceral Capitalism](#week-7---intro-to-carceral-capitalism) \
+Nov 19: [Algorithmic Policing](#week-8---algorithmic-policing) \
+Nov 26: No class – \
+Dec 3: No class – 
 
 **Course Description**
 
@@ -39,7 +39,7 @@ Each student will contribute a written or visual project to a zine that we will 
 
   * You do not need to respond to these. Have them in mind when reading and consider them after reading the text, see what comes to mind. 
 
-## Week 1 - No Class (SFPC Day 2) ##
+## Week 1 - No Class (SFPC Bootcamp) ##
 **Tuesday Oct 1**
 
 ## Week 2 - Software as Ideology  ##
@@ -192,9 +192,9 @@ Each student will contribute a written or visual project to a zine that we will 
  
 **Before Class:** Please submit a final draft of your essay/images to the [Zine Final Drafts folder](https://paper.dropbox.com/folder/show/Zine-Final-Drafts-e.1gg8YzoPEhbTkrhvQwJ2zzxWbNI0CAQgIL46H84GueFlcfAxgPMU) on Dropbox Paper by midnight the day before class. We will design and develop these works into a zine that will be available during the showcase.
   
-## Week 9 - No Class (Artist Toolkit) ##
+## Week 9 - No Class ##
 **Tuesday Nov 26**
 
-## Week 10 - No Class (Showcase) ##
+## Week 10 - No Class ##
 **Tuesday Dec 3**
   
