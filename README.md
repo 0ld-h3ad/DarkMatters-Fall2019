@@ -10,8 +10,8 @@
 
 **Class Schedule:** \
 Oct 1: No class – SFPC Bootcamp \
-Oct 8: [Software as Ideology](#week-2---software-as-ideology) \
-Oct 15: [The Silicon Valley of Dreams](#week-3---the-silicon-valley-of-dreams) \
+Oct 8: [The Silicon Valley of Dreams](#week-2---the-silicon-valley-of-dreams) \
+Oct 15: [Software as Ideology](#week-3---software-as-ideology) \
 Oct 22: [Black Gooey Universe](#week-4---black-gooey-universe) \
 Oct 29: [Intro to Blackness and Surveillance](#week-5---intro-to-blackness-and-surveillance) \
 Nov 5: [Biometric Surveillance of Blackness](#week-6---biometric-surveillance-of-blackness) \
@@ -42,8 +42,29 @@ Each student will contribute a written or visual project to a zine that we will 
 ## Week 1 - No Class (SFPC Bootcamp) ##
 **Tuesday Oct 1**
 
-## Week 2 - Software as Ideology  ##
+## Week 2 - The Silicon Valley of Dreams  ##
 **Tuesday Oct 8, 10 AM**
+
+**Agenda:**
+  * Lecture on assigned reading - 1 hour
+  * Break - 10 mins
+  * Small group discussion - 30 mins
+  * Full group discussion - 1 hour
+
+**Reading:** [David Naguib Pellow and Lisa Sun-Hee Park, “Early History and the Struggle for Resources”](/SiliconValley_2_EarlyHistory.pdf) from [*The Silicon Valley of Dreams*](https://www.amazon.com/gp/product/0814767109/ref=ox_sc_saved_title_1?smid=ATVPDKIKX0DER&psc=1)
+
+* Further Reading: Chapters 3 + 4 from this book.
+
+**Guiding Questions:** 
+  * What are some similarities between the ethos that drove the gold rush and the ethos of Silicon Valley?
+  * Based on the history of environmental injustice in Santa Clara and San Jose, what do you think the future of that region will be like?
+  * Where was your family in 1769?
+  * What are some ways you are privileged by settler colonial violence?
+
+**Before Class:** Please write a response to the text, this can include questions, impressions, sketches, notes or your own ideas. Aim for 300 words or about half a page in standard settings. Please add it to the [Week 3 folder](https://paper.dropbox.com/folder/show/Week-3-e.1gg8YzoPEhbTkrhvQwJ2zzxYCCWdER6Fu6avJDcoLIuZs0PH5DVr) on Dropbox Paper by midnight the day before class.
+
+## Week 3 - Software as Ideology  ##
+**Tuesday Oct 15, 10 AM**
 
 **Agenda:**
   * Introduction - 15 mins
@@ -64,27 +85,6 @@ Each student will contribute a written or visual project to a zine that we will 
   * Think of your friends and family, if they were the designers of computer technology what would it do/look like?
 
 **Before Class:** Please write a response to the text, this can include questions, impressions, sketches, notes or your own ideas. Aim for 300 words or about half a page in standard settings. Please add it to the [TBD folder]() on Dropbox Paper by midnight the day before class.
-
-## Week 3 - The Silicon Valley of Dreams  ##
-**Tuesday Oct 15, 10 AM**
-
-**Agenda:**
-  * Lecture on assigned reading - 1 hour
-  * Break - 10 mins
-  * Small group discussion - 30 mins
-  * Full group discussion - 1 hour
-
-**Reading:** [David Naguib Pellow and Lisa Sun-Hee Park, “Early History and the Struggle for Resources”](/SiliconValley_2_EarlyHistory.pdf) from [*The Silicon Valley of Dreams*](https://www.amazon.com/gp/product/0814767109/ref=ox_sc_saved_title_1?smid=ATVPDKIKX0DER&psc=1)
-
-* Further Reading: Chapters 3 + 4 from this book.
-
-**Guiding Questions:** 
-  * What are some similarities between the ethos that drove the gold rush and the ethos of Silicon Valley?
-  * Based on the history of environmental injustice in Santa Clara and San Jose, what do you think the future of that region will be like?
-  * Where was your family in 1769?
-  * What are some ways you are privileged by settler colonial violence?
-
-**Before Class:** Please write a response to the text, this can include questions, impressions, sketches, notes or your own ideas. Aim for 300 words or about half a page in standard settings. Please add it to the [Week 3 folder](https://paper.dropbox.com/folder/show/Week-3-e.1gg8YzoPEhbTkrhvQwJ2zzxYCCWdER6Fu6avJDcoLIuZs0PH5DVr) on Dropbox Paper by midnight the day before class.
 
 ## Week 4 - Black Gooey Universe ##
 **Tuesday Oct 22, 10 AM**
@@ -192,9 +192,9 @@ Each student will contribute a written or visual project to a zine that we will 
  
 **Before Class:** Please submit a final draft of your essay/images to the [Zine Final Drafts folder](https://paper.dropbox.com/folder/show/Zine-Final-Drafts-e.1gg8YzoPEhbTkrhvQwJ2zzxWbNI0CAQgIL46H84GueFlcfAxgPMU) on Dropbox Paper by midnight the day before class. We will design and develop these works into a zine that will be available during the showcase.
   
-## Week 9 - No Class ##
+## Week 9 - No Class (Showcase) ##
 **Tuesday Nov 26**
 
-## Week 10 - No Class ##
+## Week 10 - No Class (Clean Up) ##
 **Tuesday Dec 3**
   
