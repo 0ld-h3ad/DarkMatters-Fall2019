@@ -61,7 +61,7 @@ Each student will contribute a written or visual project to a zine that we will 
   * Where was your family in 1769?
   * What are some ways you are privileged by settler colonial violence?
 
-**Before Class:** Please write a response to the text, this can include questions, impressions, sketches, notes or your own ideas. Aim for 300 words or about half a page in standard settings. Please add it to the [Week 3 folder](https://paper.dropbox.com/folder/show/Week-3-e.1gg8YzoPEhbTkrhvQwJ2zzxYCCWdER6Fu6avJDcoLIuZs0PH5DVr) on Dropbox Paper by midnight the day before class.
+**Before Class:** Please write a response to the text, this can include questions, impressions, sketches, notes or your own ideas. Aim for 300 words or about half a page in standard settings. Please add it to the [Week 2 folder](https://paper.dropbox.com/folder/show/Week-2-Assignment-Early-History-and-the-Struggle-for-Resources-e.1gg8YzoPEhbTkrhvQwJ2zznJJWtuqNBO1WihfA52UpVK3LT99hDT) on Dropbox Paper by midnight the day before class.
 
 ## Week 3 - Software as Ideology  ##
 **Tuesday Oct 15, 10 AM**
