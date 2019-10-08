@@ -177,10 +177,10 @@ Each student will contribute a written or visual project to a zine that we will 
 **Tuesday Nov 19, 10 AM**
 
 **Agenda:**
-  * Lecture on assigned reading - 1 hr
-  * Break - 10 mins
-  * Small group discussion of writing assignment - 30 mins
-  * Full group discussion - 1 hour
+  * 12pm Meet at Queens Museum to see My Blue Window Exhibition:
+  * View exhibition - 30 mins
+  * Group Discussion - 1 hour
+  * See Museum - TBD
 
 **Reading:** [Jackie Wang, "'This Is a Story About Nerds and Cops': PredPol and Algorithmic Policing"](/JackieWang_CarceralCapitalism_ThisIsAStoryAboutNerdsAndCops.pdf) from [Carceral Capitalism](https://www.amazon.com/Carceral-Capitalism-Semiotext-Intervention-Jackie/dp/1635900026/ref=sr_1_1?s=books&ie=UTF8&qid=1534947351&sr=1-1&keywords=carceral+capitalism+jackie+wang)
 
