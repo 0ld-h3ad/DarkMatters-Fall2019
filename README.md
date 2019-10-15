@@ -174,7 +174,7 @@ Each student will contribute a written or visual project to a zine that we will 
 **Before Class:** Please submit a revised draft of your essay/images to the [Zine Final Drafts folder](https://paper.dropbox.com/folder/show/Zine-Final-Drafts-e.1gg8YzoPEhbTkrhvQwJ2zzxWbNI0CAQgIL46H84GueFlcfAxgPMU) on Dropbox Paper by midnight the day before class. Nabil and American will provide feedback.
 
 ## Week 8 - Algorithmic Policing ##
-**Tuesday Nov 19, 10 AM**
+**Saturday Nov 16, 12 PM**
 
 **Agenda:**
   * 12pm Meet at Queens Museum to see My Blue Window Exhibition:
