@@ -84,7 +84,7 @@ Each student will contribute a written or visual project to a zine that we will 
   * What are some activites in your life that are determined by what your smartphone/computer is able to do?
   * Think of your friends and family, if they were the designers of computer technology what would it do/look like?
 
-**Before Class:** Please write a response to the text, this can include questions, impressions, sketches, notes or your own ideas. Aim for 300 words or about half a page in standard settings. Please add it to the [TBD folder]() on Dropbox Paper by midnight the day before class.
+**Before Class:** Please write a response to the text, this can include questions, impressions, sketches, notes or your own ideas. Aim for 300 words or about half a page in standard settings. Please add it to the [TBD folder]() by midnight the day before class.
 
 ## Week 4 - Black Gooey Universe ##
 **Tuesday Oct 22, 10 AM**
@@ -111,7 +111,7 @@ Each student will contribute a written or visual project to a zine that we will 
   * What is the role or use of abstract thinking in various labor/liberation struggles?
   * Have you ever used technology that you were embarrassed or ashamed to have—broken or obsolete devices? Do you still feel the same way?
   
-**Before Class:** Please write a response to the text, this can include questions, impressions, sketches, notes or your own ideas. Aim for 300 words or about half a page in standard settings. Please add it to the [Week 4 folder](https://paper.dropbox.com/folder/show/Week-4-e.1gg8YzoPEhbTkrhvQwJ2zzxYCD5gXos1zaB6YVhSLzhdTDkY3OPr) on Dropbox Paper by midnight the day before class.
+**Before Class:** Please write a response to the text, this can include questions, impressions, sketches, notes or your own ideas. Aim for 300 words or about half a page in standard settings. Please add it to the [TBD folder]() by midnight the day before class.
 
 ## Week 5 - Intro to Blackness and Surveillance ##
 **Tuesday Oct 29, 10 AM**
@@ -138,7 +138,7 @@ Each student will contribute a written or visual project to a zine that we will 
   * What are some real life examples of different forms of veillance described by Steve Mann, such as counterveillance, sousveillance or univeillance?
   * What are some ways you have undermined or escaped surveillance in your own life?
   
-  **Before Class:** Please submit a first draft of your essay/images to the [Zine-Draft folder](https://paper.dropbox.com/folder/show/Zine-Draft-e.1gg8YzoPEhbTkrhvQwJ2zzxYCD5gXoGlqT56bmu2bkHaQvtSVnqU) on Dropbox Paper by midnight the day before class. Nabil and American will provide feedback.
+  **Before Class:** Please submit a first draft of your essay/images to the [Zine-Draft folder]() by midnight the day before class.
 
 ## Week 6 - Biometric Surveillance of Blackness ##
 **Tuesday Nov 5, 10 AM**
@@ -151,7 +151,7 @@ Each student will contribute a written or visual project to a zine that we will 
 
 **Reading:** [Simone Browne, "B®anding Blackness"](/DarkMatters-OntheSurveillanceofBlackness_SimoneBrowne.pdf) from [*Dark Matters: On the Surveillance of Blackness*](https://www.amazon.com/Dark-Matters-Surveillance-Simone-Browne/dp/0822359383)
 
-**Before Class:** Please submit a revised draft of your essay/images to the [Zine-Draft folder](https://paper.dropbox.com/folder/show/Zine-Draft-e.1gg8YzoPEhbTkrhvQwJ2zzxYCD5gXoGlqT56bmu2bkHaQvtSVnqU) on Dropbox Paper by midnight the day before class. Nabil and American will provide feedback.
+**Before Class:** Please submit a revised draft of your essay/images to the [Zine-Draft folder]() on Dropbox Paper by midnight the day before class.
 
 ## Week 7 - Intro to Carceral Capitalism ##
 **Tuesday Nov 12, 10 AM**
@@ -171,7 +171,7 @@ Each student will contribute a written or visual project to a zine that we will 
   * What are the consequences of increasing automation and the information economy as it is described in the text?
   * How does Wang distinguish “gratuitous violence” from other state-sanctioned violence, and why?
   
-**Before Class:** Please submit a revised draft of your essay/images to the [Zine Final Drafts folder](https://paper.dropbox.com/folder/show/Zine-Final-Drafts-e.1gg8YzoPEhbTkrhvQwJ2zzxWbNI0CAQgIL46H84GueFlcfAxgPMU) on Dropbox Paper by midnight the day before class. Nabil and American will provide feedback.
+**Before Class:** Please submit a revised draft of your essay/images to the [Zine Final Drafts folder]() by midnight the day before class.
 
 ## Week 8 - Algorithmic Policing ##
 **Saturday Nov 16, 12 PM**
@@ -190,7 +190,7 @@ Each student will contribute a written or visual project to a zine that we will 
   * How do our predictions of the future shape what is possible within it?
   * How else might daily life be determined by the relationship between "law enforcement, the university, the Department of Defense, and Silicon Valley"?
  
-**Before Class:** Please submit a final draft of your essay/images to the [Zine Final Drafts folder](https://paper.dropbox.com/folder/show/Zine-Final-Drafts-e.1gg8YzoPEhbTkrhvQwJ2zzxWbNI0CAQgIL46H84GueFlcfAxgPMU) on Dropbox Paper by midnight the day before class. We will design and develop these works into a zine that will be available during the showcase.
+**Before Class:** Please submit a final draft of your essay/images to the [Zine Final Drafts folder]() on Dropbox Paper by midnight the day before class. We will design and develop these works into a zine that will be available during the showcase.
   
 ## Week 9 - No Class (Showcase) ##
 **Tuesday Nov 26**
