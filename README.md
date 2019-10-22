@@ -121,10 +121,6 @@ Each student will contribute a written or visual project to a zine that we will 
   * Break - 10 mins
   * Small group discussion - 30 mins
   * Full group discussion - 1 hour
-  * **Saturday Apr 13, 11:00 AM** -  Field trip to see American's show *I’m Blue (If I Was █████ I Would Die)* at\
-  [Koenig & Clinton](http://koenigandclinton.com/)\
-  1329 Willoughby Ave\
-  Brooklyn, NY 11237
 
 **Reading:** [Simone Browne, "Introduction, and Other Dark Matters"](/DarkMatters-OntheSurveillanceofBlackness_SimoneBrowne.pdf) from [*Dark Matters: On the Surveillance of Blackness*](https://www.amazon.com/Dark-Matters-Surveillance-Simone-Browne/dp/0822359383)
 
